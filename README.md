@@ -101,7 +101,8 @@ After building, you can start the frontend by navigating to the `app/` directory
 Then navigate your browser to `localhost:3000`.
 
 ## Deployed Demo
-[link]()
+Demo:
+[link](https://pyth-oracle-swap-demo.netlify.app/)
 
 
 ```
